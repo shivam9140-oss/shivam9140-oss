@@ -33,14 +33,11 @@
 - 🚦 **Smart Traffic Violation System**  
   → Detects helmet, triple riding & overspeeding using YOLO  
 
-- 📸 **Face Recognition Attendance System**  
-  → Marks attendance automatically from class photo  
-
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 📧 Email: your.email@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/shivam-maddheshiya-488b341a7
+- 📧 Email: maddheshiyashivam7570@gmail.com
 
 ---
 
