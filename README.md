@@ -8,7 +8,6 @@
 ## 🔥 About Me
 - 🌱 Currently learning **Data Structures & Algorithms (Java)**
 - 🤖 Working on **AI/ML Projects (YOLO, Computer Vision)**
-- 📸 Built **Face Recognition Attendance System**
 - 🚦 Working on **Smart Traffic Violation Detection System**
 - 🎯 Goal: Crack top tech companies & become AI Engineer
 
