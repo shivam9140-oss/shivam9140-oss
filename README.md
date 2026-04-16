@@ -20,8 +20,8 @@
 ---
 
 ### 🌐 Connect with me
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Email: yourmail@gmail.com
+- LinkedIn: https://https://linkedin.com/in/%20shivam-maddheshiya-488b341a7
+- Email: gshivam9140@gmail.com
 
 ---
 
